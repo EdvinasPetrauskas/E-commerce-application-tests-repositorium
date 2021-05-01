@@ -5,9 +5,9 @@ In this GitHub project you will find all kinds of tests scenarios for E-commerce
 ## Uploading test case codes
 
 1. Overlook if such test or similar does not exist in this project
-2. Create Pull request
-3. Wait for approval
-4. Merge your Pull Request with suggested test case code
+2. Create Pull Request
+3. Wait for Pull Request approval
+4. Merge your Pull Request
 
 **NOTE**: If testing tools which you used does not have folder in this project, please create it follow "**Project structure**" steps bellow
 
